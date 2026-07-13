@@ -11,6 +11,10 @@ This journal helps me:
 - reflect on my progress over time
 - keep a structured record of my coding practice
 
+## 📈 Progress Log
+
+Track my daily coding activities and commits in the [Commit Log](commit_log.md).
+
 ## How I Use This Repo
 
 Each entry can include:
