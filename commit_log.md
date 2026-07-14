@@ -5,14 +5,46 @@ This log is an automatically generated index of the commits in this repository, 
 ---
 
 ## 📊 Summary Statistics
-- **Total Commits:** 13
+- **Total Commits:** 17
 - **Journey Started:** July 11, 2026
-- **Last Updated:** July 13, 2026
+- **Last Updated:** July 14, 2026
 - **Active Platforms:** HackerRank, GeeksForGeeks
 
 ---
 
 ## 📅 Commit History
+
+### 📅 July 14, 2026
+- **`1babd04`** — *09:48:03*
+  - **Message:** Reorganize GeeksForGeeks problems by difficulty level
+  - **Files Added:**
+    - `.gitkeep`
+  - **Files Moved:**
+    - `Prime_Number.cpp` to `Basic`
+    - `Array_Leaders.cpp` to `Easy`
+    - `Duplicates_in_Array.cpp` to `Easy`
+    - `Equilibrium_point.cpp` to `Easy`
+    - `First_Occurrence.cpp` to `Easy`
+    - `Missing_In_Array.cpp` to `Easy`
+    - `Missing_and_Repeating.cpp` to `Easy`
+    - `Second_Largest.cpp` to `Easy`
+
+- **`5e11191`** — *09:45:16*
+  - **Message:** Array Leaders Solution
+  - **Files Added:**
+    - `Array_Leaders.cpp`
+
+- **`fa1ad4b`** — *09:44:28*
+  - **Message:** Second Largest Solution
+  - **Files Added:**
+    - `Second_Largest.cpp`
+
+- **`df42358`** — *09:43:19*
+  - **Message:** Missing in array Solution
+  - **Files Added:**
+    - `Missing_In_Array.cpp`
+
+---
 
 ### 📅 July 13, 2026
 - **`7057d0d`** — *14:04:17*
