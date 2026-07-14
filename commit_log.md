@@ -5,17 +5,112 @@ This log is an automatically generated index of the commits in this repository, 
 ---
 
 ## 📊 Summary Statistics
-- **Total Commits:** 17
+- **Total Commits:** 36
 - **Journey Started:** July 11, 2026
 - **Last Updated:** July 14, 2026
-- **Active Platforms:** HackerRank, GeeksForGeeks
+- **Active Platforms:** HackerRank, GeeksForGeeks, CodeForces
 
 ---
 
 ## 📅 Commit History
 
 ### 📅 July 14, 2026
-- **`1babd04`** — *09:48:03*
+- **`e7b875d`** — *22:29:57*
+  - **Message:** Iskander and Drawings Solution
+  - **Files Added:**
+    - `2244A.cpp`
+
+- **`4ebbcd7`** — *12:02:12*
+  - **Message:** Count Non-Leaf Nodes in Tree Solution
+  - **Files Added:**
+    - `Count_Non_Leaf_in_BT.cpp`
+
+- **`f6ab9a9`** — *11:58:35*
+  - **Message:** Sum of Binary Trees Solution
+  - **Files Added:**
+    - `Sum_of_Binary_Tree.cpp`
+
+- **`fe8e190`** — *11:56:26*
+  - **Message:** Size of Binary Tree Solution
+  - **Files Added:**
+    - `Size_of_Binary_Tree.cpp`
+
+- **`4e3845c`** — *11:53:42*
+  - **Message:** Count Leaves in Binary Trees Solution
+  - **Files Added:**
+    - `Count_Leaves_in_Binary_Trees.cpp`
+
+- **`695bb45`** — *11:48:37*
+  - **Message:** PreOrder Traversal Solution
+  - **Files Added:**
+    - `Preorder_Traversal.cpp`
+
+- **`5a2a95f`** — *11:02:52*
+  - **Message:** Last Coin in a Game of Alternates Solution
+  - **Files Added:**
+    - `Last_Coin_in_a_Game_of_Alternates.cpp`
+
+- **`f783d75`** — *10:55:38*
+  - **Message:** Longest Word Solution
+  - **Files Added:**
+    - `Longest_Word.cpp`
+
+- **`3a64c99`** — *10:41:39*
+  - **Message:** Find the Fine Solution
+  - **Files Added:**
+    - `Find_the_Fine.cpp`
+
+- **`d3a6c37`** — *10:18:49*
+  - **Message:** Game with nos Solution
+  - **Files Added:**
+    - `Game_With_Nos.cpp`
+
+- **`65e99d0`** — *10:14:51*
+  - **Message:** First 1 in a Sorted Binary Array Solution
+  - **Files Added:**
+    - `First_1_In_A_Sorted_Binary_Array.cpp`
+
+- **`2038a35`** — *10:06:14*
+  - **Message:** At least Two Greater Solution
+  - **Files Added:**
+    - `At_Least_Two_Greater.cpp`
+
+- **`fb5b2fd`** — *10:01:41*
+  - **Message:** Quick Left Rotation Optimal Solution
+  - **Files Modified:**
+    - `Quick_Left_Rotation.cpp`
+
+- **`e6b360f`** — *09:57:45*
+  - **Message:** Quick Left Rotation Solution
+  - **Files Added:**
+    - `Quick_Left_Rotation.cpp`
+
+- **`3f58b66`** — *09:55:22*
+  - **Message:** Array Insert End Solution
+  - **Files Added:**
+    - `Array_Insert_End.cpp`
+
+- **`fc0d78d`** — *09:54:11*
+  - **Message:** Palindrome Array Solution
+  - **Files Added:**
+    - `Palindrome_Array.cpp`
+
+- **`18978a1`** — *09:52:25*
+  - **Message:** Smaller and Larger in A Sorted Array Solution
+  - **Files Added:**
+    - `Smaller_and_Larger_Sorted.cpp`
+
+- **`cc56da0`** — *09:51:10*
+  - **Message:** Largest in Array Solution
+  - **Files Added:**
+    - `Largest_In_Array.cpp`
+
+- **`649ad64`** — *09:50:31*
+  - **Message:** Array Search Solution
+  - **Files Added:**
+    - `Array_Search.cpp`
+
+- **`7f774b8`** — *09:48:03*
   - **Message:** Reorganize GeeksForGeeks problems by difficulty level
   - **Files Added:**
     - `.gitkeep`
