@@ -11,3 +11,14 @@ public:
     }
   }
 };
+
+// Optimal Solution using STL
+class Solution {
+
+public:
+  void leftRotate(vector<int> &arr, int k) {
+    // Your code goes here
+    k %= arr.size();
+    rotate(arr.begin(), arr.begin() + k, arr.end());
+  }
+};
