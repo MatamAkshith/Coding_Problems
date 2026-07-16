@@ -10,19 +10,40 @@
  * right(right) {}
  * };
  */
+// class Solution {
+// public:
+//   vector<int> res;
+//   vector<int> inorderTraversal(TreeNode *root) {
+//     traversal(root);
+//     return res;
+//   }
+//   void traversal(TreeNode *node) {
+//     if (!node) {
+//       return;
+//     }
+//     traversal(node->left);
+//     res.push_back(node->val);
+//     traversal(node->right);
+//   }
+// };
 class Solution {
 public:
   vector<int> res;
   vector<int> inorderTraversal(TreeNode *root) {
-    traversal(root);
-    return res;
-  }
-  void traversal(TreeNode *node) {
-    if (!node) {
-      return;
+    stack<TreeNode *> s;
+    if (!root) {
+      return res;
     }
-    traversal(node->left);
-    res.push_back(node->val);
-    traversal(node->right);
+    while (root != nullptr || !s.empty()) {
+      while (root != nullptr) {
+        s.push(root);
+        root = root->left;
+      }
+      root = s.top();
+      s.pop();
+      res.push_back(root->val);
+      root = root->right;
+    }
+    return res;
   }
 };
