@@ -5,14 +5,221 @@ This log is an automatically generated index of the commits in this repository, 
 ---
 
 ## 📊 Summary Statistics
-- **Total Commits:** 36
+- **Total Commits:** 76
 - **Journey Started:** July 11, 2026
-- **Last Updated:** July 14, 2026
-- **Active Platforms:** HackerRank, GeeksForGeeks, CodeForces
+- **Last Updated:** July 20, 2026
+- **Active Platforms:** HackerRank, GeeksForGeeks, CodeForces, LeetCode
 
 ---
 
 ## 📅 Commit History
+
+### 📅 July 19, 2026
+- **`2c6a529`** — *08:45:14*
+  - **Message:** Count Dominant Nodes in a Binary Tree©leetcode Solution
+  - **Files Added:**
+    - `511_Q2.cpp`
+
+- **`cbd919e`** — *08:44:35*
+  - **Message:** Rename 511.cpp to 511_Q1.cpp
+  - **Files Renamed:**
+    - `511.cpp` to `511_Q1.cpp`
+
+- **`0d6f143`** — *08:35:47*
+  - **Message:** Even Number of Knight Moves©leetcode Solution
+  - **Files Added:**
+    - `511.cpp`
+
+---
+
+### 📅 July 18, 2026
+- **`1256557`** — *21:20:55*
+  - **Message:** Minimum Adjacent Swaps to Partition Array©leetcode Solution
+  - **Files Added:**
+    - `187_Q3.cpp`
+
+- **`ed34d8b`** — *21:01:02*
+  - **Message:** Rearrange String to Avoid Character Pair©leetcode Solution
+  - **Files Added:**
+    - `187_Q1.cpp`
+
+- **`1ff645e`** — *16:01:35*
+  - **Message:** Sorted GCD Pair Queries Solution
+  - **Files Added:**
+    - `3312.cpp`
+
+- **`86994aa`** — *14:49:38*
+  - **Message:** Picking Numbers Solution
+  - **Files Added:**
+    - `Picking_Numbers.cpp`
+
+- **`5feacfe`** — *12:30:02*
+  - **Message:** Symmetric Tree Solution
+  - **Files Added:**
+    - `Symmetric_Tree.cpp`
+
+- **`a84b765`** — *12:18:17*
+  - **Message:** Right View of Binary Tree Solution
+  - **Files Added:**
+    - `Right_view_of_Binary_Tree.cpp`
+
+- **`e04d89e`** — *12:12:46*
+  - **Message:** Inorder Traversal Solution
+  - **Files Added:**
+    - `Inorder_Traversal.cpp`
+
+- **`cb8d569`** — *09:24:05*
+  - **Message:** Find Greatest Common Divisor of Array Solution
+  - **Files Added:**
+    - `1979.cpp`
+
+---
+
+### 📅 July 16, 2026
+- **`76a0ed3`** — *16:00:52*
+  - **Message:** Binary Tree Maximum Path Sum Solution
+  - **Files Added:**
+    - `124.cpp`
+
+- **`642791f`** — *15:14:55*
+  - **Message:** Path sum Solution
+  - **Files Added:**
+    - `112.cpp`
+
+- **`16f24d4`** — *14:17:14*
+  - **Message:** Diameter of Binary Tree Solution
+  - **Files Added:**
+    - `543.cpp`
+
+- **`64fe49b`** — *10:31:13*
+  - **Message:** Binary Tree InOrder Traversal (Iterative Approach) Solution
+  - **Files Modified:**
+    - `94.cpp`
+
+- **`f79316e`** — *10:23:56*
+  - **Message:** Binary Tree PreOrder Traversal (Iterative Approach) Solution
+  - **Files Modified:**
+    - `144.cpp`
+
+- **`0af41dd`** — *10:00:00*
+  - **Message:** Sum of GCD of Formed Pairs (Optimal Approach) Solution
+  - **Files Modified:**
+    - `3867.cpp`
+
+- **`82bee8b`** — *09:49:58*
+  - **Message:** Sum of GCD of Formed Pairs (Original Approach) Solution
+  - **Files Added:**
+    - `3867.cpp`
+
+---
+
+### 📅 July 15, 2026
+- **`d47ff7e`** — *15:26:51*
+  - **Message:** Cats and a Mouse Solution
+  - **Files Added:**
+    - `Cats_and_a_Mouse.cpp`
+
+- **`8f6f04a`** — *15:22:06*
+  - **Message:** Electronics Shop Solution
+  - **Files Added:**
+    - `Electronics_Shop.cpp`
+
+- **`59b6cf5`** — *15:15:57*
+  - **Message:** Counting Valleys Solution
+  - **Files Added:**
+    - `Counting_Valleys.cpp`
+
+- **`be77c29`** — *14:36:53*
+  - **Message:** Height of Binary Tree Solution
+  - **Files Added:**
+    - `Height_of_Binary_Tree.cpp`
+
+- **`d78a6d9`** — *14:34:12*
+  - **Message:** Balanced Tree Check Solution
+  - **Files Added:**
+    - `Balanced_Tree_Check.cpp`
+
+- **`dd5be4d`** — *14:28:25*
+  - **Message:** Multiply left and right array sum Solution
+  - **Files Added:**
+    - `Multiply_left_and_right_array_sum.cpp`
+
+- **`f09ed36`** — *14:24:52*
+  - **Message:** Swap kth elements Solution
+  - **Files Added:**
+    - `Swap_kth_element.cpp`
+
+- **`aec7d64`** — *14:00:47*
+  - **Message:** Binary Tree Level Order Traversal Solution
+  - **Files Added:**
+    - `102.cpp`
+
+- **`a3777ba`** — *12:35:56*
+  - **Message:** Balanced Binary Tree Solution
+  - **Files Added:**
+    - `110.cpp`
+
+- **`f94f36e`** — *12:18:46*
+  - **Message:** Maximum Depth of Binary Tree Solution
+  - **Files Added:**
+    - `104.cpp`
+
+- **`69f19f5`** — *11:42:45*
+  - **Message:** Symmetric Tree Optimal Solution
+  - **Files Modified:**
+    - `101.cpp`
+
+- **`1e2f029`** — *11:40:42*
+  - **Message:** Symmetric Tree Solution (Original Approach)
+  - **Files Added:**
+    - `101.cpp`
+
+- **`a92f441`** — *10:39:38*
+  - **Message:** Same Tree Solution (Original Approach)
+  - **Files Modified:**
+    - `100.cpp`
+
+- **`84375ad`** — *10:36:52*
+  - **Message:** Same Tree Solution
+  - **Files Added:**
+    - `100.cpp`
+
+- **`0edc784`** — *10:17:02*
+  - **Message:** Binary Tree Postorder Traversal Solution
+  - **Files Added:**
+    - `145.cpp`
+
+- **`4c8c83a`** — *10:15:04*
+  - **Message:** Binary Tree Preorder Traversal Solution
+  - **Files Added:**
+    - `144.cpp`
+
+- **`a861bfe`** — *10:10:53*
+  - **Message:** Binary Tree Inorder Traversal Solution
+  - **Files Added:**
+    - `94.cpp`
+
+- **`5339064`** — *10:07:47*
+  - **Message:** Sum of Root To Leaf Binary Numbers Solution
+  - **Files Added:**
+    - `1022.cpp`
+
+- **`356a4da`** — *10:05:15*
+  - **Message:** Binary Tree Right Side View Solution
+  - **Files Added:**
+    - `199.cpp`
+
+- **`1f6d9ff`** — *10:03:35*
+  - **Message:** GCD of odd and even sum Solution
+  - **Files Added:**
+    - `3658.cpp`
+
+- **`b32aa5e`** — *09:54:03*
+  - **Message:** Left View of Binary Tree Solution
+  - **Files Added:**
+    - `Left_View_of_Binary_Tree.cpp`
+
+---
 
 ### 📅 July 14, 2026
 - **`e7b875d`** — *22:29:57*
