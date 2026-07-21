@@ -1,0 +1,23 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+  string s1, s2;
+  cin >> s1 >> s2;
+  int n = s1.length();
+  int total = 0;
+  for (int i = 0; i < n; i++) {
+    if (tolower(s1[i]) == tolower(s2[i])) {
+      continue;
+    }
+    if (tolower(s1[i]) < tolower(s2[i])) {
+      cout << -1 << '\n';
+      return 0;
+    } else {
+      cout << 1 << '\n';
+      return 0;
+    }
+  }
+  cout << 0 << '\n';
+  return 0;
+}
