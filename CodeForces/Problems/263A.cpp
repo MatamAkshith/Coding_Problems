@@ -18,6 +18,6 @@ int main() {
     }
   }
   int res = abs(a - 2) + abs(b - 2);
-  cout << res << '\n';
+  cout << res << endl;
   return 0;
 }
