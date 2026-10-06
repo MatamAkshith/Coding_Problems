@@ -8,15 +8,16 @@ void solve() {
     for (int& i : arr) {
         cin >> i;
     }
-    if (k == 1) {
-        vector<int> temp = arr;
-        sort(temp.begin(), temp.end());
-        if (temp == arr) {
-            cout << "YES\n";
-            return;
-        }
-        cout << "NO\n";
+    if (k > 1) {
+        cout << "YES\n";
         return;
+    } else {
+        for (int i = 0; i < n - 1; i++) {
+            if (arr[i] > arr[i + 1]) {
+                cout << "NO\n";
+                return;
+            }
+        }
     }
     cout << "YES\n";
     return;
