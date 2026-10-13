@@ -1,30 +1,35 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+typedef long long ll;
+
 void solve() {
     int n;
     cin >> n;
-    vector<int> arr(n);
-    for (int& i : arr) {
+    vector<ll> arr(n);
+    for (ll& i : arr) {
         cin >> i;
     }
-    unordered_map<int, int> freq;
+    map<ll, ll> freq;
     for (int i = 0; i < n; i++) {
         freq[arr[i]]++;
     }
     if (freq.size() >= 3) {
         cout << "NO\n";
         return;
-    }
-    if (freq.size() == 2) {
-        int f1 = freq.begin()->second;
-        int f2 = next(freq.begin())->second;
-        if (n % 2 != 0 && (abs(f1 - f2) != 1)) {
-            cout << "NO\n";
+    } else {
+        ll f1 = freq.begin()->second;
+        ll f2 = freq.rbegin()->second;
+        if (n % 2 == 1 && (abs(f1 - f2) == 1)) {
+            cout << "YES\n";
             return;
+        } else if (f1 == f2) {
+            cout << "YES\n";
+            return;
+        } else {
+            cout << "NO\n";
         }
     }
-    cout << "YES\n";
     return;
 }
 
