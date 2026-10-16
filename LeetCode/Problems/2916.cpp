@@ -39,6 +39,7 @@ class Solution {
         seg[idx].sq = (seg[idx * 2].sq + seg[idx * 2 + 1].sq) % MOD;
     }
 
+
    public:
     int sumCounts(vector<int>& nums) {
         n = nums.size();
